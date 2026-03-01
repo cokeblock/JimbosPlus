@@ -1,0 +1,17 @@
+{
+  "id": "jimbosplus",
+  "name": "Jimbo's Plus",
+  "author": [
+    "Cyber"
+  ],
+  "description": "I know you like Jimbo, so have some more Jimbo",
+  "prefix": "jimbospl",
+  "main_file": "main.lua",
+  "version": "1.0.0",
+  "priority": 0,
+  "badge_colour": "666665",
+  "badge_text_colour": "FFFFFF",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0827c)"
+  ]
+}
